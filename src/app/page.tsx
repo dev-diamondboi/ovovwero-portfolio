@@ -166,7 +166,7 @@ export default function Home() {
       <section id="contact" className="py-36 px-8 sm:px-16 bg-indigo-50 dark:bg-indigo-950 text-center">
         <h2 className="text-4xl font-bold mb-6">Get in Touch</h2>
         <p className="text-lg mb-12 max-w-xl mx-auto">
-          Whether you're looking to collaborate, hire, or chat—I&apos;d love to hear from you.
+          Whether you're looking to collaborate, hire, or chat—I would love to hear from you.
         </p>
         <form action="https://formsubmit.co/2164528617caf063f1af35146f3fb7b5" method="POST" className="max-w-xl mx-auto grid gap-6 text-left">
           <input type="hidden" name="_captcha" value="false" />
