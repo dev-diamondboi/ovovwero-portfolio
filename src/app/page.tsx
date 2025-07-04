@@ -78,7 +78,7 @@ export default function Home() {
             Hey, call me <span className="text-indigo-600 dark:text-indigo-400">Ovo</span> 👋
           </h1>
           <p className="text-lg max-w-xl leading-relaxed">
-            Full Stack Software Engineer passionate about building accessible, scalable, and elegant web applications. My designs reflect excellence, professionalism, and creativity.
+            Full Stack Software Engineer passionate about building accessible, scalable, and elegant web, mobile and desktop applications. My designs reflect excellence, professionalism, and creativity.
           </p>
           <div className="flex gap-4 justify-center md:justify-start flex-wrap">
             <a href="https://github.com/dev-diamondboi" target="_blank" rel="noopener noreferrer" className="bg-gray-900 text-white px-5 py-3 rounded-full flex items-center gap-2 hover:bg-gray-800 transition">
